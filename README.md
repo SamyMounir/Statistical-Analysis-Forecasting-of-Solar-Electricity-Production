@@ -1,4 +1,4 @@
-# Statistical-Analysis-Forecasting-of-Solar-Electricity-Production-
+# Statistical Analysis Forecasting of Solar Electricity Production
 
 **Impactful Metrics and Achievements:**
 - Achieved the 3rd highest project grade out of 80 groups, securing a position in the top 5%.
