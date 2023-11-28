@@ -1,13 +1,8 @@
 # Statistical Analysis Forecasting of Solar Electricity Production
 
-**Impactful Metrics and Achievements:**
-- Achieved the 3rd highest project grade out of 80 groups, securing a position in the top 5%.
-- Utilized data visualization techniques and statistical methods for outlier removal and trend analysis of solar electricity production in Caen and Tours.
-- Presented concise monthly electricity production statistics in tables, encompassing average, median, standard deviation, and percentiles.
-- Identified the best-fitting distribution by maximizing log-likelihood for each location.
-- Conducted hypothesis testing with Student-T, Bartlett, and Wilcoxon tests for robust mean comparisons, while addressing assumptions and limitations.
-- Designed and implemented an autoregressive forecasting model, accurately estimating and evaluating model quality.
-- Calculated Mean Absolute Error (MAE) and R-squared value to discuss the relevance of the model.
+**Summary:**
+
+Secured the 3rd highest project grade among 80 groups, placing in the top 5%. Employed data visualization and statistical methods for solar electricity production analysis in Caen and Tours. Presented concise monthly statistics. Identified optimal distributions using log-likelihood maximization. Conducted robust hypothesis testing with Student-T, Bartlett, and Wilcoxon tests and addressed assumptions. Developed and assessed an autoregressive forecasting model, discussed its relevance through calculated Mean Absolute Error (MAE) and R-squared value.
 
 - **Energy Calculation and Basic Statistics:**
   - Calculated daily energy (WH/m²) per square meter of solar panels, utilizing solar radiation data from Caen and Tours.
